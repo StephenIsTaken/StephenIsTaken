@@ -5,4 +5,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=StephenIsTaken&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-![](https://visitcount.itsvg.in/api?id=StephenIsTaken&label=Profile%20Views&color=12icon=8&pretty=true)
+![](https://visitcount.itsvg.in/api?id=StephenIsTaken&label=Profile%20Views&color=16icon=8&pretty=true)
